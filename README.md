@@ -1,2 +1,2 @@
-# lc3_emu
-A simple emulator for the LC-3 standard that reads LC-3 assembly code. It is not to be used as a substitute to the official LC-3 emulators available.
+# CaveStoryRemakeTutorial
+A simple remake of Cave Story in C++, following [this tutorial by Limeoats](https://www.youtube.com/playlist?list=PLNOBk_id22bw6LXhrGfhVwqQIa-M2MsLa). Sprites and other assets are not included.
