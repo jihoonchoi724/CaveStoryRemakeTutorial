@@ -16,10 +16,11 @@ class Sprite
 		virtual void update();
 		void draw(Graphics &graphics, int x, int y);
 
-	private:
+	protected:
 		SDL_Rect sourceRect;
 		SDL_Texture* spriteSheet;
 
+	private:
 		float x, y;
 };
 
